@@ -31,6 +31,15 @@ Video Games:
 ![image](https://github.com/MM120-i/MovieApp---MediaMixUp/assets/80307451/2158ee43-d4c6-4bea-882c-0919f5270de0)
 ![image](https://github.com/MM120-i/MovieApp---MediaMixUp/assets/80307451/b2fa4297-ba1d-479a-988c-bef8af4a3242)
 
+Hovering Mouse over movies:
+
+![image](https://github.com/MM120-i/MovieApp---MediaMixUp/assets/80307451/d1837841-2bee-45c4-a28a-cecd89ab24bb) 
+
+![image](https://github.com/MM120-i/MovieApp---MediaMixUp/assets/80307451/11e71d16-68dd-41ef-972b-333da45dee61)
+
+
+
+
 
 
 
