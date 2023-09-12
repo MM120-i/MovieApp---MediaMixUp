@@ -36,4 +36,4 @@ Video Games:
 
 
 
-Explore the world of entertainment with GamersWatch and discover your favorite movies with ease. Whether you're a movie buff or a gaming enthusiast, this application has something for everyone.
+Explore the world of entertainment with MediaMixUp and discover your favorite movies with ease. Whether you're a movie buff or a gaming enthusiast, this application has something for everyone.
