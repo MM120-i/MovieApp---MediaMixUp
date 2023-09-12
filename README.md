@@ -10,7 +10,7 @@ MediaMixUp is a versatile web application that provides an engaging and user-fri
 - Discover detailed information about movies, including their release year and type.
 - Enjoy a visually appealing display of movie information with custom movie cards.
 - Responsive design for seamless use on various screen sizes.
-- Stylish and modern UI with a black background and vibrant purple text.
+- Stylish and modern UI.
 
 **Technologies Used**:
 
