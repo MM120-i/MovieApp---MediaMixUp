@@ -1,4 +1,4 @@
-# MovieApp - MediaMixUp
+# MovieApp - MediaMix
 
 Description:
 
